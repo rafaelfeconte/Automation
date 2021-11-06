@@ -1,0 +1,26 @@
+cadastro:
+  first name: "Nilay Pereira"
+  last name: Conte
+  password: 123456
+  company: estudos
+  andress: "travessa Lima"
+  line2: "Proximo ao posto"
+  city: "São Paulo"
+  zip: 23212
+  Additional information: "Deixar na casa 4"
+  home phone: 1133467889
+  mobile Phone: 1190087489
+  assign an address alias for future reference: "rua Conde de Assumar"
+cadastro2:
+  first name: "Aiolia"
+  last name: Conte
+  password: 654321
+  company: estudos
+  andress: "travessa Lima"
+  line2: "Proximo ao posto"
+  city: "São Paulo"
+  zip: 55544
+  Additional information: "Deixar no pet shop"
+  home phone: 1133467889
+  mobile Phone: 1190087489
+  assign an address alias for future reference: "travessa friskies"
