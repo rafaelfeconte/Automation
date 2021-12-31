@@ -11,6 +11,7 @@ Dado("devo mudar tamanho e cor") do
   @home_page.more
   @detalhe_page.size
   @detalhe_page.pink_color
+  @detalhe_page.view
   @detalhe_page.add_to_cart
   @proceed_page.click_checkout
 end
